@@ -30,11 +30,7 @@ export const cards = [
     description:
       "Access exclusive training resources and insights from top coaches and players.",
   },
-  {
-    title: "🤖 Manager AI",
-    description:
-      "Imagine having your own Jose Mourinho or Pep Guardiola as a coach!",
-  },
+
   {
     title: "⚡Build Your Football Network",
     description:
