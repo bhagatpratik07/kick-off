@@ -7,7 +7,7 @@ export default function Navbar() {
         <div className="flex-1">
           <a className="btn btn-ghost text-xl">
             <img src={icon} alt="icon" className="w-10 h-10" />
-            <p>KickOffConnections</p>
+            <p>Finesse</p>
           </a>
         </div>
         <div className=" flex-none hidden md:block">
